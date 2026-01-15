@@ -1,6 +1,6 @@
 # Kevin-Cookie-Company-Financial-Analysis-Power-BI-
 
-Using the dataset **"Kevin Cookie Company Financials (Dataset2)"**, this repository contains an interactive Power BI dashboard built to analyze the company’s financial performance and cookie sales trends.
+Using the dataset **"Kevin Cookie Company Financials (1)"**, this repository contains an interactive Power BI dashboard built to analyze the company’s financial performance and cookie sales trends.
 
 ## Overview
 The dashboard lets you explore revenue and sales trends across cookie types and time. It was built in Power BI following a typical ETL and visualization workflow: load and clean the data with Power Query, model the data, create measures, and build interactive visuals.
@@ -37,5 +37,4 @@ The dashboard lets you explore revenue and sales trends across cookie types and 
 
 ## Screenshot
 <img width="1177" height="670" alt="Dashboard Homework Power BI" src="https://github.com/user-attachments/assets/9c18106a-9b71-45ba-95ae-851b6357ffb0" />
-- Source dataset: Kevin Cookie Company Financials (Dataset2) — included in this repo (or provide path to dataset).
-- If you need additional measures or visualizations, open the Power BI file and add them in the Report view.
+- Source dataset: Kevin Cookie Company Financials - included in this repo.
